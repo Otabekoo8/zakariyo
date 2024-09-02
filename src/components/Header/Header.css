@@ -1,0 +1,61 @@
+.first-diw {
+    width: 724px;
+    height: 321px;
+    top: 218px;
+    left: 193px;
+    gap: 0px;
+    opacity: 0px;
+  }
+  .first-diw h1 {
+    font-family: sans-serif;
+    font-size: 60px;
+    font-weight: 700;
+    line-height: 95px;
+    text-align: left;
+    text-transform: uppercase;
+    margin-top: -30px;
+  }
+  .first-diw p {
+    font-family: sans-serif;
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 30.6px;
+    text-align: left;
+    text-transform: uppercase;
+  }
+  .two-diw {
+    display: flex;
+    margin-top: 118px;
+    width: 1320px;
+    height: 500px;
+  }
+  .second-diw {
+    width: 660px;
+    box-shadow: 3px 3px 4px 4px rgba(0, 0, 0, 0.3);
+    height: 608px;
+    background: rgba(255, 151, 29, 1);
+    border-radius: 4%;
+    margin-top: -153px;
+  }
+  .first-diw input {
+    width: 406px;
+    height: 60px;
+    top: 479px;
+    left: 193px;
+    gap: 0px;
+    opacity: 0px;
+    border-radius: 4px;
+    outline: none;
+    color: #000;
+    border: none;
+    background-color: #a4a4a452;
+    padding-left: 20px;
+    font-family: sans-serif;
+    font-size: 15px;
+    margin-top: 50px;
+  }
+  .second-diw img {
+    width: 630px;
+    height: 608px;
+    border-radius: 4%;
+  }
